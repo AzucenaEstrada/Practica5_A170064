@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Practica5_a170064/ejemplo.xsl"?>
+<perritos>
+  <datos>
+    <nombre> Rous</nombre>
+    <raza>terrier</raza>
+    <sexo>hembra</sexo>
+    <color>negro</color>
+  </datos>
+  <datos>
+    <nombre> Chiquita</nombre>
+    <raza>Chihuahua</raza>
+    <sexo>hembra</sexo>
+    <color>cafe con blanco</color>
+  </datos>
+  <datos>
+    <nombre>Tobbie</nombre>
+    <raza>Golden</raza>
+    <sexo>macho</sexo>
+    <color>cafe</color>
+  </datos>
+</perritos>
